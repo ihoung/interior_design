@@ -74,7 +74,7 @@ public class InteriorDesign : MonoBehaviour {
 	}
 
 	public void OnSetSize(int i){
-		GameObject targetPlane = planes [i].transform.FindChild ("Plane").gameObject;
+		GameObject targetPlane = planes [i].transform.Find ("Plane").gameObject;
 		switch (i) {
 		case 0:
 		case 1:
