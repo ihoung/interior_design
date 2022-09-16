@@ -1,5 +1,5 @@
 # interior_design
-my undergraduate design
+my undergraduate project
 
 Developed by Unity2018
 
